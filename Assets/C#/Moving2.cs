@@ -8,11 +8,6 @@ public class Moving2 : MonoBehaviour
     float height = 0.1f;
 
 
-    void Start()
-    {
-
-    }
-
 
     void Update()
     {
